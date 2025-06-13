@@ -26,7 +26,6 @@ This repository contains the code and documentation for my DataCamp Certificatio
     - The Random Forest Classifier was tested to explore potential improvements in predictive power, but the Logistic Regression model showed superior performance.
 
 ## Recommendations
-
     - Proposed deploying the Logistic Regression model for its superior recall (89%) and F1-score (83%) to automate recipe selection.
     - Suggested a dashboard for monitoring Popular Recipe Success Rate (PRSR) on a daily, weekly, and monthly basis.
     - Recommended automated alerts for PRSR drops below 75% and continuous model improvement through additional data collection, feature engineering, and hyperparameter tuning for both models.
@@ -38,6 +37,7 @@ This repository contains the code and documentation for my DataCamp Certificatio
     - Visualized results with confusion matrices and classification reports.
 
 ## Dependencies
+
     - Python
     - pandas
     - numpy
@@ -47,8 +47,7 @@ This repository contains the code and documentation for my DataCamp Certificatio
     - jupyter
 
 ## License
-
-    - This project is intended for academic and educational use.
+- This project is intended for academic and educational use.
 
 ## Acknowledgments
 
